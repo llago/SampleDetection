@@ -1,0 +1,5 @@
+PFNMF_o4_s32_spec_1: 
+	hop = 256
+	sizeFrame= 512
+	sizeSTFT = 1024
+	k = 10		

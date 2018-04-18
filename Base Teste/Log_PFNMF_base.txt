@@ -1,0 +1,17 @@
+PFNMF_o4_s32: trecho do sample 32 com uma ocorrência do trecho do original 04
+
+PFNMF_o4_s32_2vezes: trecho do sample 32 com duas ocorrências do trecho do original 04
+
+PFNMF_s32_puro: trecho do sample 32 puro
+
+
+
+- Variar tamanho da janela.
+
+- Variar tamanho do trecho original
+
+- Variar número de fontes
+
+-  Variar parâmetro da PFNMF
+
+- DTW
