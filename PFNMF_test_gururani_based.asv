@@ -11,7 +11,7 @@ hop = 128;
 sizeFrame = 512;
 sizeSTFT = 4096;
 
-Vst = imq.STFT(original, @imq.windows.HammingWindow, sizeFrame, hop, sizeSTFT);
+Vst = igormq.STFT(original, @imq.windows.HammingWindow, sizeFrame, hop, sizeSTFT);
 V = abs(Vst);
 Xst = imq.STFT(sample, @imq.windows.HammingWindow, sizeFrame, hop, sizeSTFT);
 X = abs(Xst);
