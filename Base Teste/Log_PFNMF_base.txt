@@ -15,3 +15,8 @@ PFNMF_s32_puro: trecho do sample 32 puro
 -  Variar parâmetro da PFNMF
 
 - DTW
+
+
+Para descobrir posição do sample, é neccessário remover do resultado da correlação o tamanho (em quadros) do trecho original, pois no começo
+da correlação ainda não há uma sobreposição total dos sinais. Depois deve se procurar o maior pico, que representa o maior alinhamento entre os sinais, 
+multiplicá-lo pelo hop e dividí-lo pela fs. 
