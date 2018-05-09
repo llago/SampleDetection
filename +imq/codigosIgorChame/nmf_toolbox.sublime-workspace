@@ -1,0 +1,1434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wdrums",
+				"wdrums2010_nmf_inst_mu_kl"
+			],
+			[
+				"nodrums",
+				"nodrums2010_nmf_inst_mu_kl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_talks_timevaryingmixtures/rslt_smt_conversa_03_param10.m",
+			"settings":
+			{
+				"buffer_size": 2153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_talks_timevaryingmixtures/rslt_smt_conversa_04_param10.m",
+			"settings":
+			{
+				"buffer_size": 2153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<wpt lat=\"-22.969997\" lon=\"-43.384257\">\n        <time>2016-08-09T09:00:00Z</time>\n    </wpt>\n<wpt lat=\"-22.969997\" lon=\"-43.384257\">\n        <time>2016-08-09T09:00:01Z</time>\n    </wpt>\n<wpt lat=\"-22.970193\" lon=\"-43.384755\">\n        <time>2016-08-09T09:00:21Z</time>\n    </wpt>\n<wpt lat=\"-22.970314\" lon=\"-43.385106\">\n        <time>2016-08-09T09:00:35Z</time>\n    </wpt>\n<wpt lat=\"-22.970289\" lon=\"-43.385825\">\n        <time>2016-08-09T09:01:01Z</time>\n    </wpt>\n<wpt lat=\"-22.970647\" lon=\"-43.386133\">\n        <time>2016-08-09T09:01:20Z</time>\n    </wpt>\n<wpt lat=\"-22.97082\" lon=\"-43.387013\">\n        <time>2016-08-09T09:01:53Z</time>\n    </wpt>\n<wpt lat=\"-22.970084\" lon=\"-43.387513\">\n        <time>2016-08-09T09:02:27Z</time>\n    </wpt>\n<wpt lat=\"-22.969556\" lon=\"-43.389412\">\n        <time>2016-08-09T09:03:41Z</time>\n    </wpt>\n<wpt lat=\"-22.970228\" lon=\"-43.389503\">\n        <time>2016-08-09T09:04:08Z</time>\n    </wpt>\n<wpt lat=\"-22.971073\" lon=\"-43.388307\">\n        <time>2016-08-09T09:05:03Z</time>\n    </wpt>\n<wpt lat=\"-22.9705\" lon=\"-43.387095\">\n        <time>2016-08-09T09:05:53Z</time>\n    </wpt>\n<wpt lat=\"-22.971863\" lon=\"-43.385361\">\n        <time>2016-08-09T09:07:18Z</time>\n    </wpt>\n<wpt lat=\"-22.971977\" lon=\"-43.383647\">\n        <time>2016-08-09T09:08:21Z</time>\n    </wpt>\n<wpt lat=\"-22.971933\" lon=\"-43.382944\">\n        <time>2016-08-09T09:08:47Z</time>\n    </wpt>\n<wpt lat=\"-22.970012\" lon=\"-43.382574\">\n        <time>2016-08-09T09:10:05Z</time>\n    </wpt>\n<wpt lat=\"-22.969997\" lon=\"-43.384257\">\n        <time>2016-08-09T09:11:07Z</time>\n    </wpt>",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"line_ending": "Unix",
+				"name": "<wpt lat=\"-22.969997\" lon=\"-43.384257\">"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "side",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"TERMINA",
+				"Terminal: Open in project folder"
+			],
+			[
+				"file ",
+				"File: Close All"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"file c",
+				"File: Close All"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"open ",
+				"Terminal: Open in project folder"
+			],
+			[
+				"open",
+				"Terminal: Open in project folder"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"folder",
+				"Terminal: Open in project folder"
+			],
+			[
+				"open ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"git igno",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git ign",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"set syntax matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"begin",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"diction",
+				"Dictionaries: Set Language"
+			],
+			[
+				"bib",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"custom",
+				"Build: Custom Quick Build"
+			],
+			[
+				"build",
+				"Build: Custom Quick Build"
+			],
+			[
+				"pref",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"preferences",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"finder",
+				"Finder: Open here"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - Default"
+			],
+			[
+				"intro",
+				"Snippet: nth root"
+			],
+			[
+				"main",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"view pdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"buil",
+				"Build: Custom Quick Build"
+			],
+			[
+				"latexing",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"latexi",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"latex",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"latexing look",
+				"LaTeXing: Lookup TeX Symbol"
+			],
+			[
+				"view",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"view ",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"file:",
+				"File: Close All"
+			],
+			[
+				"count",
+				"LaTeXing: Texcount"
+			],
+			[
+				"delete ",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"clean",
+				"Build With: LaTeX - Clean up Files"
+			],
+			[
+				"latex clea",
+				"LaTeXing: Clean Temporary Output Dictionary"
+			],
+			[
+				"latex clean",
+				"Build With: LaTeX - Clean up Files"
+			],
+			[
+				"side bar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git gui",
+				"Git: Gui"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git config",
+				"Git: Open Config File"
+			],
+			[
+				"gir remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git configur",
+				"Git: Open Config Url"
+			],
+			[
+				"git help",
+				"Git: Help"
+			],
+			[
+				"remote",
+				"Git: Add Remote"
+			],
+			[
+				"git check",
+				"Git: Checkout Commit"
+			],
+			[
+				"git: sttus",
+				"Git: Status"
+			],
+			[
+				"Git check",
+				"Git: Checkout"
+			],
+			[
+				"git ",
+				"Git: Version"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git ignore",
+				"Gitignore: New gitignore"
+			],
+			[
+				"ignore",
+				"Gitignore: New gitignore"
+			],
+			[
+				"git: status",
+				"Git: Status"
+			],
+			[
+				"git: init",
+				"Git: Init"
+			],
+			[
+				"git:",
+				"Git: Status"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"enume",
+				"Snippet: Enumerate"
+			],
+			[
+				"enum",
+				"Snippet: Enumerate"
+			],
+			[
+				"equa",
+				"Snippet: Equation"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"menu ",
+				"View: Toggle Menu"
+			],
+			[
+				"side]",
+				"Snippet: \\item[description]"
+			],
+			[
+				"snippet",
+				"Snippet: Equation"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				" toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"enumera",
+				"Snippet: Enumerate"
+			],
+			[
+				"item",
+				"Snippet: Itemize"
+			],
+			[
+				"enumerate",
+				"Snippet: Enumerate"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"temporary",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"status bar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"bar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"delete",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"buld",
+				"Build: Build"
+			],
+			[
+				" build",
+				"Build: Build"
+			],
+			[
+				"latex dele",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"toggle spa",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"diff",
+				"Git: Open Modified Files"
+			],
+			[
+				"side b",
+				"View: Toggle Side Bar"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"spaces",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"scroll",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"latexti",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"migra",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"latexTools",
+				"LaTeXTools: Jump to PDF"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 453.0,
+		"history":
+		[
+			"git remote add https://igorchame@bitbucket.org/igorchame/projfinal_nmf_toolbox_igorchame.git",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/matlab_audio_mix"
+	],
+	"file_history":
+	[
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_aux_tools/assoc_compToSrc_ideal.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/index.html",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_aux_tools/bss_eval_images.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/ntf_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/matlab_audio_mix/evaluate_separation.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_aux_tools/create_experiment_latex_table.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_professionally_produced_music_recordings_shannon.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/ntf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/ntf_inst_em_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/nmf_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/nmf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/nmf_inst_em_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/ntfclus_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/ntfclus_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/matlab_audio_mix/mixer.m",
+		"/Users/igorchame/Downloads/experiment_underdetermined_talks_timevaryingmixtures-20160727_124259/smt_conversa_03-ntf_inst_mu_is-20160727_141546/evaluate_script.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_music_mixtures/SiSEC2010_wdrums-ntfclus_inst_mu_kl-20160712_191824/evaluate_script.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_music_mixtures/SiSEC2010_wdrums-ntfclus_inst_mu_kl-20160712_191824/evaluate_separation.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_music_mixtures/SiSEC2010_wdrums-ntfclus_inst_mu_kl-20160712_191824/evaluate_separation",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_underdetermined_talks_timevaryingmixtures.m",
+		"/Volumes/ARCA/experiments/index.html",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases/lw_fala/conversa/smt_conversa_04_createdataset.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/results.html",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/matlab_audio_mix/plot_mixingmatrix.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases/lw_fala/conversa/smt_conversa_01_createdataset.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/matlab_audio_mix/mixer_time_varying.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases/lw_fala/conversa/smt_conversa_03_createdataset.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases/lw_fala/conversa/smt_conversa_02_src2.wav",
+		"/Users/igorchame/Desktop/results.html",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntf_em_is_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/multinmf_inst_em.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_professionally_produced_music_recordings/rslt_SiSEC2008_tamy-que_pena_tanto_faz_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_professionally_produced_music_recordings/rslt_SiSEC2010_another_dreamer-the_ones_we_love_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_professionally_produced_music_recordings/rslt_SiSEC2010_Shannonsongs-Sunrise_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_speech_mixtures/rslt_SiSEC2008_female3_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_speech_mixtures/rslt_SiSEC2010_femalemale_wChannDiff_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_speech_mixtures/rslt_SiSEC2010_femalemale_noChannDiff_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_speech_mixtures/rslt_SiSEC2008_male3_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_speech_mixtures/rslt_smt_conversa_02_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_speech_mixtures/rslt_smt_conversa_01_param10.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_underdetermined_talks_mixtures.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/matlab_audio_mix/src_synthetizer.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases/lw_fala/conversa/smt_conversa_02_createdataset.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_aux_tools/plot_experiment_avg_sdrperimplement.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_professionally_produced_music_recordings.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_underdetermined_music_mixtures.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/help.txt",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_evaluate_component_number.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_underdetermined_speech_mixtures.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/fevotte_ozerov/example_usage_lwfala_multinmf_inst_em.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/ntfclus_inst_em_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/is_nmf_mu.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/is_nmf_em.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntfclus_em_is_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_nmf_is_em_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntfclus_mu_is_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntfclus_mu_kl_mag.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_nmf_kl_mu_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_nmf_kl_mu_mag.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntf_mu_is_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntf_mu_kl_mag.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_aux_tools/plot_experiment_sdr_perrun.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_aux_tools/assoc_compToSrc_multichan_ideal.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/ntf_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/nmf_kl_mu.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nmf_mu_kl_speech_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nmf_mu_is_profmusic_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_aux_tools/plot_experiment_cost_maxmin.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/experiment_music.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/implement_nmf_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/implement_ntf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/implement_ntfclus_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/implement_nmf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntf_mu_is_profmusic_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/implement_ntf_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations/implement_ntfclus_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/scp_from_smt.txt",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/.gitignore",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/example_usage_nmf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntfclus_mu_kl_profmusic_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntf_mu_kl_profmusic_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntfclus_mu_is_profmusic_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/script.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntfclus_mu_is_music_evalIter.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntfclus_mu_is_speech_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntfclus_mu_kl_music_evalIter.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntfclus_mu_kl_speech_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/example_usage_multinmf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/example_usage_nmf_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nmf_mu_is_music_evalIter.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nmf_mu_is_speech_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nmf_mu_kl_music_evalIter.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nmf_mu_kl_profmusic_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntf_mu_is_music_evalIter.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntf_mu_is_speech_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntf_mu_kl_music_evalIter.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/ntf_mu_kl_speech_evalComponents.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/fevotte_cmmr10_code/demo.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/fevotte_cmmr10_code/reconstruction.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/fevotte_cmmr10_code/ntfclus_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/fevotte_cmmr10_code/ntfclus_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/aux_tools/ntf_recons_im.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/aux_tools/multinmf_recons_im.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/ntfclus_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/ntf_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/aux_tools/assoc_compToSrc_multichan_ideal.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntfclus_mu_kl_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/init_ntf_mu_kl_pow.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/ntfclus_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/aux_tools/nmf_recons_im.m",
+		"/Users/igorchame/Downloads/code/demo.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/ntfclus_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/ntfclus_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/aux_tools/bss_eval_images.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/create_experiment_latex_table.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/fevotte_neco09_code/is_nmf_mu.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/evalIter_nmf_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/evalIter_nmf_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/aux_tools/assoc_compToSrc_ideal.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/aux_tools/log4m/log4m.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_methods/multinmf_inst_is_mu.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/wdrums2008_nmf_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/wdrums2008_nmf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nodrums2010_nmf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/wdrums2010_nmf_inst_mu_kl.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/wdrums2010_nmf_inst_mu_is.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/evaluate_music_nmf_inst_mu.m",
+		"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/nodrums2008_nmf_inst_mu_is.m"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame/src_implementations",
+			"<open files>",
+			"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/implementation/NMF/nmf_toolbox_igorchame",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" \"",
+			"\"\"",
+			"</wpt>\"",
+			"\"<wpt",
+			"mean",
+			"perm",
+			"cell",
+			"experiment_underdetermined_music_mixtures",
+			"nmf_bss",
+			"h2",
+			"Blind ",
+			"Multichannel",
+			"log_like",
+			"bar_Rxx",
+			"Sigma_x",
+			"bar_Rss",
+			"bar_Rxs",
+			"Rxs",
+			"Rxx",
+			"trace",
+			"fprintf",
+			"Gs_x",
+			"S",
+			"Xb",
+			"Sigma_b_EM",
+			"Sigma_b",
+			"Sigma_b0",
+			"is_nmf_mu",
+			".wav';",
+			"'/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases",
+			".wav';",
+			"'/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases",
+			"cost",
+			".wav';",
+			"'bases/",
+			"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/bases/",
+			"2.2204e-4",
+			"execution_time",
+			"\n\n    %%% Set Paths %%%\n    % Generating Path to directories\n    implementation_name = mfilename; % implementation name is set by the name of the runner\n    results_dir = ['data/' experiment_name '/' dataset_name '-' implementation_name '/']; % experiment result path is relative to this script path\n    % Checking if experiment_path exists",
+			"if ( cost_best = 0 )",
+			"nsrc",
+			"nsrc{dataset}",
+			"nsrc",
+			"'/' implementation_name '-' dataset_name '/'",
+			"implementation_name '-' dataset_name",
+			"experiment_name",
+			"'-' execution_time ",
+			"execution_time",
+			"\n\n    %%% Experiment Time %%%\n    execution_time = datestr(now,'yyyymmdd_HHMMSS');",
+			"\n    LOG.info('experiment',[' @ ' execution_time]);",
+			"execution_time",
+			",dataset,",
+			"% experiment name is set by the name of the runner",
+			"\n        init_param{4};",
+			"\n    % Setting dataset name\n    if nargin < 7 || isempty(dataset_name)\n        dataset_name = 'temp';\n    end",
+			"( NMF_CompPerSrcNum, nsrc, stft_win_len, max_iterations, mixture_full_path, source_ref_full_path, dataset_name, experiment_name)",
+			"\n    init_rnd = 20; init_iterations = 50; after_iterations = 0;\n    ",
+			" or ",
+			"or",
+			"    LOG.info('experiment',['  nsrc: ' num2str(nsrc) ', NMF_CompPerSrcNum: ' num2str(NMF_CompPerSrcNum) ', stft_win_len: ' num2str(stft_win_len) ', max_iterations: ' num2str(max_iterations)]);\n",
+			"\n    LOG.info('experiment',['% Experiment: ' experiment_name ' %']);\n    LOG.info('experiment',[' @ ' execution_time]);",
+			"'data/' experiment_name '/' implementation_name '-' dataset_name '-' execution_time '/'",
+			"'data/' experiment_name '/' dataset_name '_' execution_time '/'",
+			"experiment_name",
+			"dataset_name, implementation_name",
+			"( NMF_CompPerSrcNum, nsrc, stft_win_len, max_iterations, mixture_full_path, source_ref_full_path, dataset_name)",
+			"experiment_name = mfilename;",
+			"experiment_time",
+			"implement_",
+			"            if cost(repeat,end) < cost_best(1,end)\n                LOG.info('experiment','  !New best!');",
+			"    repeat_total = 10;\n    cost = zeros(repeat_total,max_iterations);\n    for repeat=1:repeat_total,",
+			"    repeat_total = 10;\n    for repeat=1:repeat_total,",
+			"aux_tools",
+			"[SDRi,ISRi,SIRi,SARi,permi] = implement",
+			"[SDRi,ISRi,SIRi,SARi,permi,cost] = implement",
+			"[SDRi,ISRi,SIRi,SARi,permi,cost] =",
+			"[SDRi,ISRi,SIRi,SARi,permi",
+			"cost",
+			"saveas( h, [results_dir 'cost.png'], 'png');",
+			"cost",
+			"eps",
+			"[x, fs]=audioread(mixture_full_path);",
+			"eps",
+			"int2str(permi(j)) ",
+			"end",
+			"multinmf",
+			"nchan",
+			"stft_win_len",
+			"win_len",
+			"source_NMF_ind",
+			".^2",
+			"n_c",
+			"init_ntf",
+			"D",
+			"L",
+			"D",
+			"Q",
+			"D",
+			"\\",
+			"/",
+			"eps",
+			"log",
+			"nsrc",
+			"getLogger",
+			"log4m",
+			"getLogger",
+			"persistent",
+			"Guarantee",
+			"cost",
+			"Guarantee",
+			"reference",
+			"cost",
+			"guarantees",
+			"cost",
+			"power",
+			"pow",
+			"^2",
+			"init",
+			"num2str(elapsedTime,'%8.2f')",
+			"init_nmf_kl_mu",
+			"sum(sum",
+			"i_ref",
+			"jtrue",
+			"jest",
+			"bss_image_crit",
+			"bss_decomp_mtifilt",
+			"i_sim",
+			"H_MU"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"</wpt>",
+			"<wpt",
+			"experiment_underdetermined_speech_mixtures",
+			"experiment_professionally_produced_music_recordings",
+			"is_nmf_em",
+			".wav' ];",
+			"[ basic_path 'bases",
+			".wav' ];",
+			"[ basic_path 'bases",
+			"sdr",
+			".wav' ];",
+			"[ basic_path 'bases/",
+			"bases/",
+			"2.2204e-6",
+			"\n\n    %%% Execution Time %%%\n    execution_time = datestr(now,'yyyymmdd_HHMMSS');\n\n    %%% Set Paths %%%\n    % Generating Path to directories\n    implementation_name = mfilename; % implementation name is set by the name of the runner\n    results_dir = ['data/' experiment_name '/' dataset_name '-' implementation_name '-' execution_time '/']; % experiment result path is relative to this script path\n    % Checking if experiment_path exists",
+			"if ( cost_best == 0 )",
+			"nsrc(dataset)",
+			"'/' dataset_name '-' implementation_name '/'",
+			"",
+			",dataset,implement,",
+			"% implementation name is set by the name of the runner",
+			"\n        repeat_total = init_param{4};",
+			"\n    % Setting dataset name\n    if nargin < 7 || isempty(dataset_name), dataset_name = 'temp'; end;\n    % Setting experiment name\n    if nargin < 8 || isempty(experiment_name), experiment_name = 'notnamed'; end;\n    % Setting initialization parameters\n    if nargin < 9 || isempty(init_param) || size(init_param,2) ~= 4, \n        init_rnd = 10; init_iterations = 50; after_iterations = 0;\n        repeat_total = 10;\n    else\n        init_rnd = init_param{1}; init_iterations = init_param{2}; after_iterations = init_param{3};\n        init_param{4};\n    end;",
+			" ( NMF_CompPerSrcNum, nsrc, stft_win_len, max_iterations, mixture_full_path, source_ref_full_path, dataset_name, experiment_name, init_param)",
+			"\n    ",
+			" || ",
+			"    LOG.info('experiment',['  nsrc: ' num2str(nsrc) ', NMF_CompPerSrcNum: ' num2str(NMF_CompPerSrcNum) ', max_iterations: ' num2str(max_iterations)]);\n",
+			"\n    LOG.info('experiment',['% Experiment: ' experiment_name ' %']);\n    LOG.info('experiment',['% Implementation: ' implementation_name ' %']);\n    LOG.info('experiment',[' @ ' execution_time]);",
+			"'data/' experiment_name '-' execution_time '/' implementation_name '-' dataset_name '/'",
+			"'data/' experiment_name '/' implementation_name '-' dataset_name '-' execution_time '/'",
+			"dataset_name, experiment_name",
+			"( NMF_CompPerSrcNum, nsrc, stft_win_len, max_iterations, mixture_full_path, source_ref_full_path, dataset_name, implementation_name)",
+			"implementation_name = mfilename;",
+			"execution_time",
+			"",
+			"        if ( cost_best = 0 ) or ( cost(repeat,end) < cost_best(1,end) )\n            LOG.info('experiment','  !New best!');",
+			"    repeat_total = 10;\n    cost = zeros(repeat_total,max_iterations); cost_best = 0;\n    for repeat=1:repeat_total,",
+			"    repeat_total = 10;\n    cost = zeros(repeat_total,max_iterations);\n    for repeat=1:repeat_total,",
+			"src_aux_tools",
+			"[SDRi,ISRi,SIRi,SARi,permi,cost] = implement",
+			"saveas( h, [results_dir 'cost.png'], 'png');\n    h = figure; loglog(1:max_iterations,cost); ylabel('$C(\\cdot)$','Interpreter','latex'); xlabel('$s_{fat}$','Interpreter','latex'); grid on;\n    saveas( h, [results_dir 'cost.eps'], 'epsc');",
+			"num2str(permi(j),'%02.0u') ",
+			"V",
+			"num2str(elapsedTime,'%9.3f')",
+			"s_ref",
+			"source_counter",
+			"comp_counter",
+			"i_ref",
+			"H",
+			"W",
+			"nmf_mu_kl",
+			"\\hat{\\bm{W}} \\otimes \\hat{\\bm{H}}",
+			" Seções ",
+			"Seções",
+			"Seção",
+			"\\otimes",
+			"\\eqref{eq:",
+			"MarianoAlmeida2014",
+			"hyvarinen2000independent",
+			"\\hat",
+			"",
+			"\\citeet",
+			"",
+			"...",
+			"\\cdots",
+			"\\mid",
+			"pode-se",
+			"",
+			"}",
+			"{",
+			"runner_multinmf_inst_mu",
+			"jest",
+			"SDR_sample_iter_max",
+			"experiment_runner",
+			"12/2016",
+			";12/2016",
+			";68;",
+			"",
+			"	;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_talks_timevaryingmixtures/rslt_smt_conversa_03_param10.m",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_underdetermined_talks_timevaryingmixtures/rslt_smt_conversa_04_param10.m",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1577
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<wpt lat=\"-22.969997\" lon=\"-43.384257\">",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-checkout":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 25.0
+	},
+	"output.git-init":
+	{
+		"height": 100.0
+	},
+	"output.git-pull":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"output.git-remote":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "nmf_toolbox.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side",
+				"nmf_toolbox_igorchame/src_aux_tools/assoc_compToSrc_ideal.m"
+			],
+			[
+				"",
+				"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/deliverables/experiments/cap5/experiment_professionally_produced_music_recordings/rslt_SiSEC2010_another_dreamer-the_ones_we_love_param10.m"
+			],
+			[
+				"concl",
+				"final/report_formatocoppe/chapters/conclusoes.tex"
+			],
+			[
+				"conclu",
+				"final/report_formatocoppe/chapters/conclusoes.tex"
+			],
+			[
+				"procura",
+				"report_proposta/Figuras/Cronograma.eps"
+			],
+			[
+				"estrutura",
+				"final/report_estrutura/Principal_estrutura.tex"
+			],
+			[
+				"exp",
+				"final/report_formatocoppe/chapters/experimentos_nmf_multicanal.tex"
+			],
+			[
+				"separa",
+				"final/report_formatocoppe/chapters/separacao_fontes_audio.tex"
+			],
+			[
+				"/",
+				"final/report_formatocoppe/Chame,Igor_projetoFinal.tex"
+			],
+			[
+				"pream",
+				"final/report_formatocoppe/chapters/preambulo_teorico.tex"
+			],
+			[
+				"exper",
+				"final/report_formatocoppe/chapters/experimentos_nmf_multicanal.tex"
+			],
+			[
+				"intro",
+				"final/report_formatocoppe/chapters/introducao.tex"
+			],
+			[
+				"fatora",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"header",
+				"final/report_formatocoppe/header.tex"
+			],
+			[
+				"chame",
+				"final/report_formatocoppe/Chame,Igor_projetoFinal.tex"
+			],
+			[
+				"fatoracao",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"heade",
+				"final/report_formatocoppe/header.tex"
+			],
+			[
+				"faot",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"fator",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"front",
+				"final/report_formatocoppe/frontmatter.tex"
+			],
+			[
+				"preamb",
+				"final/report_formatocoppe/chapters/preambulo_teorico.tex"
+			],
+			[
+				"faotra",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"fato",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"main",
+				"Algoritmos para testar com NMF v3_nfm e nmfd/main.m"
+			],
+			[
+				"sepa",
+				"final/report_formatocoppe/chapters/separacao_fontes_audio.tex"
+			],
+			[
+				"fa",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"faora",
+				"final/report_formatocoppe/chapters/fatoracao_matrizes_nao_negativas.tex"
+			],
+			[
+				"igor",
+				"final/report_formatocoppe/Chame,Igor_projetoFinal.tex"
+			],
+			[
+				"separaca",
+				"final/report_formatocoppe/chapters/separacao_fontes_audio.tex"
+			],
+			[
+				"projeto",
+				"final/report_formatocoppe/Chame,Igor_projetoFinal.tex"
+			],
+			[
+				"introd",
+				"final/report_formatocoppe/chapters/introducao.tex"
+			],
+			[
+				"preambu",
+				"projeto_de_graduação/report_formatocoppe/chapters/preambulo_teorico.tex"
+			],
+			[
+				"separacao",
+				"projeto_de_graduação/report_formatocoppe/chapters/separacao_fontes_audio.tex"
+			],
+			[
+				"in",
+				"projeto_de_graduação/report_formatocoppe/chapters/introducao.tex"
+			],
+			[
+				"introduc",
+				"projeto_de_graduação/report_formatocoppe/chapters/introducao.tex"
+			],
+			[
+				"introdu",
+				"projeto_de_graduação/report_formatocoppe/chapters/introducao.tex"
+			],
+			[
+				"preambulo",
+				"projeto_de_graduação/report_formatocoppe/chapters/preambulo_teorico.tex"
+			],
+			[
+				"proposta",
+				"report_proposta/proposta.tex"
+			],
+			[
+				"head",
+				"projeto_de_graduação/report_formatocoppe/header.tex"
+			],
+			[
+				"prea",
+				"projeto_de_graduação/report_formatocoppe/chapters/preambulo_teorico.tex"
+			],
+			[
+				"fontes",
+				"projeto_de_graduação/report_formatocoppe/chapters/separacao_fontes_audio.tex"
+			],
+			[
+				"mendeley",
+				"projeto_de_graduação/report_formatocoppe/mendeley_library.bib"
+			],
+			[
+				"estruru",
+				"projeto_de_graduação/report_estrutura/Principal_estrutura.tex"
+			],
+			[
+				"chapters",
+				"projeto_de_graduação/report_formatocoppe/chapters/separacao_fontes_audio.tex"
+			],
+			[
+				"cap1",
+				"/Volumes/Mac HD/igorchame/Google Drive/Documents/1.Faculdade/UFRJ/2015.1_projetoFinal/report/projeto_de_graduação/report_formatocoppe/chapters/cap1.tex"
+			],
+			[
+				"cap3",
+				"projeto_de_graduação/report_formatocoppe/chapters/cap3.tex"
+			],
+			[
+				"cap2",
+				"projeto_de_graduação/report_formatocoppe/chapters/cap2.tex"
+			],
+			[
+				"man",
+				"matlab_audio_mix/add_noise.m"
+			],
+			[
+				"mai",
+				"projeto_de_graduação/report_formatocoppe/main.tex"
+			],
+			[
+				"chap2",
+				"projeto_de_graduação/report_formatocoppe/chapters/cap2.tex"
+			],
+			[
+				"princi",
+				"projeto_de_graduação/report/Principal.tex"
+			],
+			[
+				"tese",
+				"projeto_de_graduação/report/TesePack.tex"
+			],
+			[
+				"c",
+				"projeto_de_graduação/report/cap2.tex"
+			],
+			[
+				"prin",
+				"projeto_de_graduação/report/Principal.tex"
+			],
+			[
+				"cap",
+				"projeto_de_graduação/report/cap2.tex"
+			],
+			[
+				"cap4",
+				"projeto_de_graduação/report/prel_cap4.tex"
+			],
+			[
+				"principa",
+				"projeto_de_graduação/report/Principal.tex"
+			],
+			[
+				"estrutu",
+				"projeto_de_graduação/report/Principal_estrutura.tex"
+			],
+			[
+				"estru",
+				"projeto_de_graduação/report/Principal_estrutura.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

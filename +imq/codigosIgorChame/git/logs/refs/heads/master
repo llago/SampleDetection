@@ -1,0 +1,43 @@
+0000000000000000000000000000000000000000 619ea4a3beb4b743972b85d7ae4ddf009723e537 IGOR CHAME <igorchame@poli.ufrj.br> 1465996639 -0300	commit (initial): Criando repositório com implementações de:
+619ea4a3beb4b743972b85d7ae4ddf009723e537 3c46c96ec959e3183548408e4bbe326d19c97f53 IGOR CHAME <igorchame@poli.ufrj.br> 1466084409 -0300	commit: Reestruturação de toolbox, organização em:
+3c46c96ec959e3183548408e4bbe326d19c97f53 ddafe80125b56deba50998202bbe4c8f04a9fdc8 IGOR CHAME <igorchame@poli.ufrj.br> 1466084791 -0300	commit: Reestruturação.
+ddafe80125b56deba50998202bbe4c8f04a9fdc8 926f8691d37403ebfe0d03cfadb0fd68a8da5a3e IGOR CHAME <igorchame@poli.ufrj.br> 1466089011 -0300	commit: atualizacao ajuda
+926f8691d37403ebfe0d03cfadb0fd68a8da5a3e dbbe715899341ffc6630d3763442882c3d2fb7db IGOR CHAME <igorchame@poli.ufrj.br> 1466089034 -0300	pull bitbucket: Merge made by the 'recursive' strategy.
+dbbe715899341ffc6630d3763442882c3d2fb7db 46e258c1b2a2e05e5b168a4ab19f8cb1d5aadc04 IGOR CHAME <igorchame@poli.ufrj.br> 1466096802 -0300	commit: Retirado o print de custo da iteração em: (a) is_nmf_mu.m e (b) nmf_kl_mu.m
+46e258c1b2a2e05e5b168a4ab19f8cb1d5aadc04 6ffd736142556f1b340ee337d5dfe68eb130d3b1 IGOR CHAME <igorchame@poli.ufrj.br> 1466434892 -0300	commit: Update professional experiment
+6ffd736142556f1b340ee337d5dfe68eb130d3b1 a09a01b20d74846224f10f714af68b09146da7c6 IGOR CHAME <igorchame@poli.ufrj.br> 1466442049 -0300	commit: Teste de componentes
+a09a01b20d74846224f10f714af68b09146da7c6 9e6275cef58a757e7f906082cb86197d003abfa6 IGOR CHAME <igorchame@poli.ufrj.br> 1466443161 -0300	pull bitbucket master: Fast-forward
+9e6275cef58a757e7f906082cb86197d003abfa6 2c2c4e1c385f3e3e3b4fa5597dbd3c600846281b IGOR CHAME <igorchame@poli.ufrj.br> 1466520647 -0300	commit: Atualizacao experimentos
+2c2c4e1c385f3e3e3b4fa5597dbd3c600846281b 2070ddb8ad2b1ad4dd421d43aa59a33a8120c078 IGOR CHAME <igorchame@poli.ufrj.br> 1466520730 -0300	commit: Atualizacao experimentos
+2070ddb8ad2b1ad4dd421d43aa59a33a8120c078 c8a6233cbaa6c326a07d165f991dd35ad20d4589 IGOR CHAME <igorchame@poli.ufrj.br> 1466695225 -0300	commit: merge
+c8a6233cbaa6c326a07d165f991dd35ad20d4589 9d0578fc48c24bd7a779d1d90c00b1520b0a2ff3 IGOR CHAME <igorchame@poli.ufrj.br> 1466695315 -0300	commit (merge): merge
+9d0578fc48c24bd7a779d1d90c00b1520b0a2ff3 a80fd482530a9aa533233ade22388e8e57aa9a50 IGOR CHAME <igorchame@poli.ufrj.br> 1466695359 -0300	commit: merge
+a80fd482530a9aa533233ade22388e8e57aa9a50 f4109ee0c7634d6facf7f891b9bc6ec318f8bc72 IGOR CHAME <igorchame@poli.ufrj.br> 1467034663 -0300	commit: Correcao na plotagem de resultados com menos de 3 fontes
+f4109ee0c7634d6facf7f891b9bc6ec318f8bc72 930312ddb15935996cb4ea0662e076d5be500d7e IGOR CHAME <igorchame@poli.ufrj.br> 1467055145 -0300	commit: Criacao metodos EM
+930312ddb15935996cb4ea0662e076d5be500d7e e0d095aec23829df71c88dee2497a8c0a207562a IGOR CHAME <igorchame@poli.ufrj.br> 1467055190 -0300	commit: Criacao metodos EM
+e0d095aec23829df71c88dee2497a8c0a207562a f4520729b82ff5c122c97e3b2138969a493fc868 IGOR CHAME <igorchame@poli.ufrj.br> 1467065425 -0300	pull bitbucket: Fast-forward
+f4520729b82ff5c122c97e3b2138969a493fc868 b77e496785288fded3de8b6c0c8adf26103f1e94 IGOR CHAME <igorchame@poli.ufrj.br> 1467118414 -0300	pull bitbucket: Fast-forward
+b77e496785288fded3de8b6c0c8adf26103f1e94 81ecd33a913e828fa5c3fedadb618dd9aebcc372 IGOR CHAME <igorchame@poli.ufrj.br> 1467127541 -0300	commit: Experimento Speech novo
+81ecd33a913e828fa5c3fedadb618dd9aebcc372 d8aef5752b48cb7f250762952f1017d7c5673289 IGOR CHAME <igorchame@poli.ufrj.br> 1467133261 -0300	pull bitbucket: Fast-forward
+d8aef5752b48cb7f250762952f1017d7c5673289 a051ebd9d48e3727216c9ffcf50fea1aaf09db00 IGOR CHAME <igorchame@poli.ufrj.br> 1467895626 -0300	pull bitbucket: Fast-forward
+a051ebd9d48e3727216c9ffcf50fea1aaf09db00 c8aa5a812179bae33eb34df60db77248d16337f0 IGOR CHAME <igorchame@poli.ufrj.br> 1467985289 -0300	commit: Custo adicionado de EM NTF
+c8aa5a812179bae33eb34df60db77248d16337f0 19bdb3078d5615a5162abc67823a56886ebd4ec7 IGOR CHAME <igorchame@poli.ufrj.br> 1467985336 -0300	pull bitbucket: Merge made by the 'recursive' strategy.
+19bdb3078d5615a5162abc67823a56886ebd4ec7 388cb0626400bb690b142293895dcaf0e7abaccb IGOR CHAME <igorchame@poli.ufrj.br> 1467985984 -0300	commit: Custo adicionado de EM NTF
+388cb0626400bb690b142293895dcaf0e7abaccb ffdb194d42fcbfcb4e7cdb2cda6358e14e90c248 IGOR CHAME <igorchame@poli.ufrj.br> 1467986115 -0300	commit: Custo adicionado de EM NTF
+ffdb194d42fcbfcb4e7cdb2cda6358e14e90c248 155d837d91efd68aab73d9025315e5f08b464c6e IGOR CHAME <igorchame@poli.ufrj.br> 1467988688 -0300	pull bitbucket: Fast-forward
+155d837d91efd68aab73d9025315e5f08b464c6e 2dbd93b59563d4613115d04c6dbe64408aff9295 IGOR CHAME <igorchame@poli.ufrj.br> 1468246129 -0300	pull bitbucket: Fast-forward
+2dbd93b59563d4613115d04c6dbe64408aff9295 fcd9d0857febe7640be7df34b2a342ce5924beb3 IGOR CHAME <igorchame@poli.ufrj.br> 1468419563 -0300	pull bitbucket: Fast-forward
+fcd9d0857febe7640be7df34b2a342ce5924beb3 4ef3b13c4fa148dce574b20de7cf08f6e3e77d4a IGOR CHAME <igorchame@poli.ufrj.br> 1468512756 -0300	commit: Correcao plot experiment sdrperimplement
+4ef3b13c4fa148dce574b20de7cf08f6e3e77d4a d4b62fb6a09ab0506e8437445c747251d0e6d5fa IGOR CHAME <igorchame@poli.ufrj.br> 1469018137 -0300	commit: projeto
+d4b62fb6a09ab0506e8437445c747251d0e6d5fa 39fc0a0ea2ea04b3c7e8a8a37bb968c2895d0a16 IGOR CHAME <igorchame@poli.ufrj.br> 1469018145 -0300	pull bitbucket: Merge made by the 'recursive' strategy.
+39fc0a0ea2ea04b3c7e8a8a37bb968c2895d0a16 b507ae3d5dcf197421e0ec54bc1e1e0ade13cbcb IGOR CHAME <igorchame@poli.ufrj.br> 1469018517 -0300	commit: Adicionado experimento com conversas de duas pessoas
+b507ae3d5dcf197421e0ec54bc1e1e0ade13cbcb f8f60b7cc43fd89ae78b89f3dd1fd5905e2ac27f IGOR CHAME <igorchame@poli.ufrj.br> 1469018569 -0300	commit: Adicionado experimento com conversas de duas pessoas
+f8f60b7cc43fd89ae78b89f3dd1fd5905e2ac27f 87d8d10da2dab730f5808fb55560a18992fa0cf2 IGOR CHAME <igorchame@poli.ufrj.br> 1469462035 -0300	commit: EM com annealing
+87d8d10da2dab730f5808fb55560a18992fa0cf2 0af02daaec44741fb32503d2560233069b3f2b6f IGOR CHAME <igorchame@poli.ufrj.br> 1469545733 -0300	pull bitbucket: Fast-forward
+0af02daaec44741fb32503d2560233069b3f2b6f a0b312791a6a00c037072528919a7337755745f8 IGOR CHAME <igorchame@poli.ufrj.br> 1469545921 -0300	commit: Experimento de mistura variante no tempo criado
+a0b312791a6a00c037072528919a7337755745f8 4a256b36f9e239ef4e69758e013441183e00aa77 IGOR CHAME <igorchame@poli.ufrj.br> 1469633192 -0300	commit: Criado novo experimento com mixagem variante no tempo
+4a256b36f9e239ef4e69758e013441183e00aa77 775c3e5c34d79633970f3258d4b007c85f6c97b2 IGOR CHAME <igorchame@poli.ufrj.br> 1469710533 -0300	commit: correcao time varying mixtures experiment
+775c3e5c34d79633970f3258d4b007c85f6c97b2 e3f06a3e3cc6a12c0a1d89a22cd607f7fca26648 IGOR CHAME <igorchame@poli.ufrj.br> 1469710539 -0300	pull bitbucket: Merge made by the 'recursive' strategy.
+e3f06a3e3cc6a12c0a1d89a22cd607f7fca26648 1e606b6d15a230691c002e527d5971a25d64c3fa IGOR CHAME <igorchame@poli.ufrj.br> 1469710588 -0300	commit: correcao time varying mixtures experiment
+1e606b6d15a230691c002e527d5971a25d64c3fa e8c5542562ae25d355bd71b4f3fd99fed82896f9 IGOR CHAME <igorchame@poli.ufrj.br> 1469742057 -0300	commit: correcao de plottagem de resultados sem usar perm
+e8c5542562ae25d355bd71b4f3fd99fed82896f9 71f4f8e39b4cb0048453e4cd848cf9042ba3939b IGOR CHAME <igorchame@poli.ufrj.br> 1469743588 -0300	commit: correcao de plottagem de resultados sem usar perm
