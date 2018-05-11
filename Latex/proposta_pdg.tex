@@ -1,0 +1,133 @@
+\documentclass[a4paper,12pt,oneside,openany]{report}	
+\input{FormatoPack}
+\usepackage{xcolor}
+
+\begin{document}
+\long\def\/*#1*/{}
+
+\begin{center}
+\textbf{UNIVERSIDADE FEDERAL DO RIO DE JANEIRO}
+\vspace{-0.2cm}
+
+\textbf{ESCOLA POLITÉCNICA}
+\vspace{-0.2cm}
+
+\textbf{DEPARTAMENTO DE ENGENHARIA ELETRÔNICA E DE COMPUTAÇÃO}
+\vspace{0.8cm}
+
+\underline{\textbf{PROPOSTA DE PROJETO DE GRADUAÇÃO}}
+
+Aluno: Lucas Lago de Carvalho
+\vspace{-0.2cm}
+
+llagocarvalho@poli.ufrj.br
+
+Orientador: Luiz Wagner Pereira Biscainho
+\end{center}
+
+\textbf{1. TÍTULO}
+
+Processamento Digital de Áudio Aplicado à Detecção de \textit{Samples} Musicais.
+
+\vspace{0.4cm}
+\textbf{2. ÊNFASE}
+
+Processamento digital de áudio.
+
+\vspace{0.4cm}
+\textbf{3. TEMA}
+
+O tema do trabalho é a detecção de trechos de uma determinada música (\textit{samples}) em uma segunda música alvo. O trabalho consiste em implementar um sistema automatizado tal que, fornecidas como entrada uma música de referência e uma música suspeita, será capaz de determinar se existe alguma parte comum às duas.
+
+\vspace{0.4cm}
+\textbf{4. DELIMITAÇÃO}
+
+O trabalho se restringe a analisar músicas gravadas em mono, ou seja, com apenas um canal, em formato digital de alta qualidade, como por exemplo, a uma taxa de 44,1 kHz (qualidade de CD). A base de dados utilizada consiste em 80 pares de músicas originais e músicas alvo. A duração do trecho pode variar de meio segundo a 20 segundos, sendo a média igual a 4,5 segundos. 
+
+Em geral, as músicas alvo são de hip-hop, principal gênero musical em que a técnica do \textit{sampling} é empregada, e as músicas originais são em sua maioria funks dos anos 60 e 70, além de músicas pop dos anos 80. Na base de dados encontram-se casos em que o trecho original está presente na música alvo, mas com alteração de altura e/ou de andamento, e casos em que o trecho foi regravado em estúdio. Além disso, o excerto pode estar misturado com os mais diversos tipos de emissões sonoras, como as de instrumentos gerados sinteticamente, de voz cantada e de outros trechos pré-gravados.
+
+\vspace{0.4cm}
+\textbf{5. JUSTIFICATIVA}
+
+Desde os tempos pré-históricos, a música sempre esteve presente na vida humana. Durante sua evolução formaram-se períodos bem determinados com características próprias, mas certos aspectos se mantiveram presentes durante as transições entre as épocas. Tendo isso em mente, este trabalho poderá servir como ferramenta de análise das influências que uma geração musical sofre das gerações passadas, possibilitando novas percepções sobre a nossa cultura.
+
+Há de se considerar também, entre as aplicações do algoritmo, a detecção de plágio. Não é de hoje que a cópia não autorizada de criações musicais é um problema. A própria técnica de \textit{sampling} pode ser considerada plágio em algumas situações. O presente trabalho não seria capaz de definir a existência de uma irregularidade, mas poderia ser utilizado em uma primeira etapa para buscar, em uma grande coleção de músicas, suspeitos de infringir direitos autorais.
+
+Ademais, o fato de não existirem na literatura muitos trabalhos que abordem o problema da detecção de \textit{samples}, torna a busca por sua solução mais instigante e desafiadora.
+
+
+\vspace{0.4cm}
+\textbf{6. OBJETIVO}
+
+A meta será implementar um sistema automatizado proposto em \cite{gururani_automatic_2017} para a detecção de \textit{samples} musicais em diferentes gravações. Para isso, serão empregadas diversas técnicas conhecidas na literatura, como NMF, DTW e \textit{Random Forest}. A robustez do método quanto à alteração de altura e à contração e expansão do tempo também será testada por meio de experimentos com músicas contendo tais variações.
+
+
+
+\vspace{0.4cm}
+\textbf{7. METODOLOGIA}
+
+Um caminho natural ao se realizar uma detecção de um sinal presente em uma mistura é primeiro separá-lo para depois localizá-lo. Na literatura, o método mais empregado na tarefa da separação de sinais no tempo é a NMF (\textit{Non-Negative Matrix Factorization})\cite{Seung_NMF}, que busca fatorar uma matriz de espectrograma (representação tempo-frequencial de um sinal) \cite{Espectrograma} em uma matriz (\textbf{\textit{W}}) contendo em suas colunas os padrões espectrais de cada fonte (no contexto musical, um instrumento, uma nota, um \textit{sample} etc.) e uma matriz (\textbf{\textit{H}}) contendo em suas linhas as ativações desses padrões. Neste trabalho, adotou-se uma das diversas variações da NMF, chamada PFNMF (\textit{Partially Fixed NMF}), na qual algumas bases espectrais são previamente definidas e mantidas fixas durante a fatoração. Assim, o algoritmo busca apenas por suas ativações temporais. As outras linhas de H e respectivas colunas de W são processadas normalmente. Esta escolha de algoritmo se deve ao fato de termos em mãos a música original, que, ao ser fatorada previamente por uma NMF, pode fornecer uma base espectral para realização da PFNMF da música alvo. 
+
+Em um caso ideal, em que o \textit{sample} não sofreu nenhuma modificação, uma correlação cruzada entre as matrizes de ativação da NMF da música original e da PFNMF da música alvo já seria o suficiente para encontrar os possíveis momentos em que o excerto é executado. Entretanto, uma primeira dificuldade surge quando o trecho é espalhado no tempo, já que o mesmo acontece com suas  ativações. Além disso, variações de altura escalam o eixo frequencial da matriz \textbf{\textit{W}} de acordo com o fator aplicado na mudança de \textit{pitch}. Isso exige que novas matrizes \textbf{\textit{W}} sejam geradas a partir do escalamento do eixo frequencial da matriz \textbf{\textit{W}} original de semitom em semitom, para então selecionar, dentre elas, a melhor candidata.
+
+A DTW(\textit{Dynamic Time Warping})\cite{DTW} aparece como uma excelente solução para os dois problemas, pois produz como resultado uma matriz de alinhamento, da qual é possível extrair informações sobre a semelhança entre as matrizes \textbf{\textit{H}}. Assim, ela é utilizada para selecionar o semitom correto, e também para fornecer as \textit{features} passadas a um classificador \textit{Random Forest}, que irá determinar a probabilidade final do \textit{sample} estar presente na música alvo.
+
+A cada etapa implementada, testes utilizando a base dados e as anotações fornecidas pelo autor de \cite{gururani_automatic_2017} serão realizados para corroborar a escolha das técnicas. Isso também irá garantir o bom funcionamento do código e permitirá uma melhor compreensão do processo de detecção.
+\pagebreak
+
+
+\vspace{0.4cm}
+\textbf{8. MATERIAIS}
+	
+Irá se utilizar o Matlab como principal ferramenta de análise de dados, além do Excel para organização do projeto em geral.
+
+
+\vspace{0.4cm}
+\textbf{9. CRONOGRAMA}
+
+
+Fase 1: Levantamento de diferentes técnicas existentes para detecção de \textit{samples}.
+
+Fase 2: Aprofundamento teórico a partir do método escolhido.
+
+Fase 3: Implementação do algoritmo.
+
+Fase 4: Análise de desempenho por meio de experimentos diversos.
+
+Fase 5: Documentação.
+\\
+
+\begin{figure}[h]
+\centering
+\includegraphics[scale=1]{Cronograma}
+\end{figure}
+
+\bibliography{proposta} 
+\bibliographystyle{ieeetr}
+
+      \vspace{2cm}
+      \noindent
+Rio de Janeiro, 21 de março de 2018
+
+      \vspace{0.5cm}
+      \begin{flushright}
+         \parbox{10cm}{
+            \hrulefill
+
+            \vspace{-.375cm}
+            \centering{Lucas Lago de Carvalho - Aluno}
+
+            \vspace{0.9cm}
+            \hrulefill
+
+            \vspace{-.375cm}
+            \centering{Luiz Wagner Pereira Biscainho - Orientador}
+ 
+            \vspace{0.9cm}
+         }
+      \end{flushright}
+      \vfill
+      
+\end{document}
+
+

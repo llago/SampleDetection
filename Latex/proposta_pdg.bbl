@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{gururani_automatic_2017}
+S.~Gururani and A.~Lerch, ``Automatic sample detection in polyphonic music,''
+  in {\em Proceedings of the International Society for Music Information
+  Retrieval Conference (ISMIR)}, (Suzhou), pp.~264--271, International Society
+  for Music Information Retrieval (ISMIR), Janeiro 2017.
+
+\bibitem{Seung_NMF}
+D.~D. Lee and H.~S. Seung, ``Learning the parts of objects by non-negative
+  matrix factorization,'' {\em Nature}, vol.~401, pp.~788--791, Outubro 1999.
+
+\bibitem{Espectrograma}
+P.~S.~R. Diniz, E.~A.~B. da~Silva, and S.~L. Netto in {\em Digital Signal
+  Processing: System Analysis and Design}, Cambridge University Press, 2nd~ed.,
+  2010.
+
+\bibitem{DTW}
+M.~Muller, ``Dynamic time warping,'' in {\em Information Retrieval for Music
+  and Motion}, pp.~69--84, Berlim: Springer, 2007.
+
+\end{thebibliography}
