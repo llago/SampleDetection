@@ -66,11 +66,11 @@ A meta será implementar um sistema automatizado proposto em \cite{gururani_autom
 \vspace{0.4cm}
 \textbf{7. METODOLOGIA}
 
-Um caminho natural ao se realizar uma detecção de um sinal presente em uma mistura é primeiro separá-lo para depois localizá-lo. Na literatura, o método mais empregado na tarefa da separação de sinais no tempo é a NMF (\textit{Non-Negative Matrix Factorization})\cite{Seung_NMF}, que busca fatorar uma matriz de espectrograma (representação tempo-frequencial de um sinal) \cite{Espectrograma} em uma matriz (\textbf{\textit{W}}) contendo em suas colunas os padrões espectrais de cada fonte (no contexto musical, um instrumento, uma nota, um \textit{sample} etc.) e uma matriz (\textbf{\textit{H}}) contendo em suas linhas as ativações desses padrões. Neste trabalho, adotou-se uma das diversas variações da NMF, chamada PFNMF (\textit{Partially Fixed NMF}), na qual algumas bases espectrais são previamente definidas e mantidas fixas durante a fatoração. Assim, o algoritmo busca apenas por suas ativações temporais. As outras linhas de H e respectivas colunas de W são processadas normalmente. Esta escolha de algoritmo se deve ao fato de termos em mãos a música original, que, ao ser fatorada previamente por uma NMF, pode fornecer uma base espectral para realização da PFNMF da música alvo. 
+Um caminho natural ao se realizar uma detecção de um sinal presente em uma mistura é primeiro separá-lo para depois localizá-lo. Na literatura, o método mais empregado na tarefa da separação de sinais no tempo é a NMF (\textit{Non-Negative Matrix Factorization})\cite{Seung_NMF}, que busca fatorar uma matriz de espectrograma (representação tempo-frequencial de um sinal) \cite{Espectrograma} em uma matriz (\textbf{\textit{W}}) contendo em suas colunas os padrões espectrais de cada fonte (no contexto musical, um instrumento, uma nota, um \textit{sample} etc.) e uma matriz (\textbf{\textit{H}}) contendo em suas linhas as ativações desses padrões. Neste trabalho, adotou-se uma das diversas variações da NMF, chamada PFNMF (\textit{Partially Fixed NMF}), na qual algumas bases espectrais são previamente definidas e mantidas fixas durante a fatoração. Assim, o algoritmo busca apenas por suas ativações temporais. As outras linhas de H e respectivas colunas de W são processadas normalmente. Esta escolha de algoritmo se deve ao fato de termos em mãos a música original, que, ao ser fatorada previamente por uma NMF, irá fornecer uma base espectral para a realização da PFNMF da música alvo. 
 
 Em um caso ideal, em que o \textit{sample} não sofreu nenhuma modificação, uma correlação cruzada entre as matrizes de ativação da NMF da música original e da PFNMF da música alvo já seria o suficiente para encontrar os possíveis momentos em que o excerto é executado. Entretanto, uma primeira dificuldade surge quando o trecho é espalhado no tempo, já que o mesmo acontece com suas  ativações. Além disso, variações de altura escalam o eixo frequencial da matriz \textbf{\textit{W}} de acordo com o fator aplicado na mudança de \textit{pitch}. Isso exige que novas matrizes \textbf{\textit{W}} sejam geradas a partir do escalamento do eixo frequencial da matriz \textbf{\textit{W}} original de semitom em semitom, para então selecionar, dentre elas, a melhor candidata.
 
-A DTW(\textit{Dynamic Time Warping})\cite{DTW} aparece como uma excelente solução para os dois problemas, pois produz como resultado uma matriz de alinhamento, da qual é possível extrair informações sobre a semelhança entre as matrizes \textbf{\textit{H}}. Assim, ela é utilizada para selecionar o semitom correto, e também para fornecer as \textit{features} passadas a um classificador \textit{Random Forest}, que irá determinar a probabilidade final do \textit{sample} estar presente na música alvo.
+A DTW(\textit{Dynamic Time Warping})\cite{DTW} aparece como uma excelente solução para os dois problemas, pois produz como resultado uma matriz de alinhamento, da qual é possível extrair informações sobre a semelhança entre as matrizes \textbf{\textit{H}}. Assim, em um primeiro momento, ela é utilizada para selecionar o semitom correto (os outros candidatos são descartados). Depois, extrai-se dela algumas \textit{features} que serão passadas a um classificador \textit{Random Forest}. Este último algoritmo se faz necessário, pois a probabilidade final do \textit{sample} estar presente na música alvo não pode ser definida a partir de uma única característica da matriz de alinhamento, exigindo uma complexidade maior no momento da classificação (presente ou ausente). 
 
 A cada etapa implementada, testes utilizando a base dados e as anotações fornecidas pelo autor de \cite{gururani_automatic_2017} serão realizados para corroborar a escolha das técnicas. Isso também irá garantir o bom funcionamento do código e permitirá uma melhor compreensão do processo de detecção.
 \pagebreak
@@ -95,11 +95,11 @@ Fase 3: Implementação do algoritmo.
 Fase 4: Análise de desempenho por meio de experimentos diversos.
 
 Fase 5: Documentação.
-\\
+\\\\
 
 \begin{figure}[h]
 \centering
-\includegraphics[scale=1]{Cronograma}
+\makebox[0pt]{\includegraphics[scale=1]{cronograma_pf}}
 \end{figure}
 
 \bibliography{proposta} 

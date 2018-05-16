@@ -1,0 +1,665 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.11)  11 MAY 2018 01:49
+entering extended mode
+**./proposta_pdg.tex
+(proposta_pdg.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (FormatoPack.tex
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\layout.sty"
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count88
+\cnt@paperwidth=\count89
+\cnt@paperheight=\count90
+\cnt@hoffset=\count91
+\cnt@voffset=\count92
+\cnt@textheight=\count93
+\cnt@textwidth=\count94
+\cnt@topmargin=\count95
+\cnt@oddsidemargin=\count96
+\cnt@evensidemargin=\count97
+\cnt@headheight=\count98
+\cnt@headsep=\count99
+\cnt@marginparsep=\count100
+\cnt@marginparwidth=\count101
+\cnt@marginparpush=\count102
+\cnt@footskip=\count103
+\fheight=\count104
+\ref@top=\count105
+\ref@hoffset=\count106
+\ref@voffset=\count107
+\ref@head=\count108
+\ref@body=\count109
+\ref@foot=\count110
+\ref@margin=\count111
+\ref@marginwidth=\count112
+\ref@marginpar=\count113
+\Interval=\count114
+\ExtraYPos=\count115
+\PositionX=\count116
+\PositionY=\count117
+\ArrowLength=\count118
+) ("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
+y"
+Package: babel 2018/02/14 3.18 The Babel package
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
+ish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count119
+\U@D=\dimen103
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count120
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-portuges\por
+tuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+)) (pagina.sty) (indentfirst.sty
+Package: indentfirst 1994/05/23 v1.02 Indent first paragraph (DPC)
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.st
+y"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\epsfxsize=\dimen106
+\epsfysize=\dimen107
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pstricks\pstricks.
+sty"
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\iftex\iftex.sty"
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey
+.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count121
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pstrick
+s.tex"
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pst-fp.
+tex" `pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count122
+\pstFP@xia=\count123
+\pstFP@xib=\count124
+\pstFP@xfa=\count125
+\pstFP@xfb=\count126
+\pstFP@rega=\count127
+\pstFP@regb=\count128
+\pstFP@regs=\count129
+\pstFP@times=\count130
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen108
+\pgfutil@tempdimb=\dimen109
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks22
+))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+calc.code.tex"
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+util.code.tex"
+\pgf@x=\dimen110
+\pgf@xa=\dimen111
+\pgf@xb=\dimen112
+\pgf@xc=\dimen113
+\pgf@y=\dimen114
+\pgf@ya=\dimen115
+\pgf@yb=\dimen116
+\pgf@yc=\dimen117
+\c@pgf@counta=\count131
+\c@pgf@countb=\count132
+\c@pgf@countc=\count133
+\c@pgf@countd=\count134
+\pgfutil@tempcnta=\count135
+\pgfutil@tempcntb=\count136
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count137
+\pgfmath@box=\box26
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.code.tex"
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex")
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.random.code.tex")
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.base.code.tex")
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.round.code.tex")
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex")
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count138
+))
+\pgffor@iter=\dimen119
+\pgffor@skip=\dimen120
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+)
+\psLoopIndex=\count139
+
+`PSTricks' v2.82  <2018/01/06> (tvz,hv)
+\pst@dima=\dimen121
+\pst@dimb=\dimen122
+\pst@dimc=\dimen123
+\pst@dimd=\dimen124
+\pst@dimg=\dimen125
+\pst@dimh=\dimen126
+\pst@dimm=\dimen127
+\pst@dimn=\dimen128
+\pst@dimo=\dimen129
+\pst@dimp=\dimen130
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count140
+\pst@cntb=\count141
+\pst@cntc=\count142
+\pst@cntd=\count143
+\pst@cntg=\count144
+\pst@cnth=\count145
+\pst@cntm=\count146
+\pst@cntn=\count147
+\pst@cnto=\count148
+\pst@cntp=\count149
+\@zero=\count150
+\pst@toks=\toks28
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pstrick
+s.con")
+\psunit=\dimen131
+\psxunit=\dimen132
+\psyunit=\dimen133
+\pst@C@@rType=\count151
+\pslinewidth=\dimen134
+\psk@startLW=\dimen135
+\psk@endLW=\dimen136
+\pst@customdefs=\toks29
+\pslinearc=\dimen137
+\pst@symbolStep=\dimen138
+\pst@symbolWidth=\dimen139
+\pst@symbolLinewidth=\dimen140
+\everypsbox=\toks30
+\psframesep=\dimen141
+\pslabelsep=\dimen142
+\sh@wgridXunit=\dimen143
+\sh@wgridYunit=\dimen144
+\pst@shift=\dimen145
+)
+File: pstricks.tex 2018/01/06 v2.82 `PSTricks' (tvz,hv)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pst-fp.
+tex")
+File: pst-fp.tex 2018/01/06 v2.82 `PST-fp' (hv)
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-node\pst-node.
+sty"
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-node\pst-nod
+e.tex"  v1.41, 2017/12/30
+\psrow=\count152
+\pscol=\count153
+\psmatrixcnt=\count154
+\psrowsep=\skip43
+\pscolsep=\skip44
+\pst@args=\count155
+\num@pts=\count156
+\pst@argcnt=\count157
+)
+File: pst-node.tex 2017/12/30 1.41 `pst-node' (tvz,hv)
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-tree\pst-tree.
+sty"
+Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-tree\pst-tre
+e.tex"  v1.13, 2017/02/18(tvz,dg,hv)
+\pstree@rootbox=\box30
+\pstree@box=\box31
+\psnodecnt=\count158
+\pstreelevel=\count159
+\pstreecnt=\count160
+\pstree@cnt=\count161
+\pstree@stop=\count162
+)
+File: pst-tree.tex 2017/02/18 1.13 `pst-tree' (tvz,hv)
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(rotating.sty
+Package: rotating 94/04/15 2 SPQR
+
+Style option: rotating 2 <94/04/15> (SPQR / LMB)
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.st
+y"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen146
+))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count163
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count164
+\leftroot@=\count165
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count166
+\DOTSCASE@=\count167
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count168
+\c@MaxMatrixCols=\count169
+\dotsspace@=\muskip10
+\c@parentequation=\count170
+\dspbrk@lvl=\count171
+\tag@help=\toks33
+\row@=\count172
+\column@=\count173
+\maxfields@=\count174
+\andhelp@=\toks34
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks35
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (portland.sty
+\paperheight=\dimen155
+\phoffset=\dimen156
+\pvoffset=\dimen157
+\ptextwidth=\dimen158
+\ptextheight=\dimen159
+\ptopmargin=\dimen160
+\poddsidemargin=\dimen161
+\pevensidemargin=\dimen162
+\lhoffset=\dimen163
+\lvoffset=\dimen164
+\ltextwidth=\dimen165
+\ltextheight=\dimen166
+\ltopmargin=\dimen167
+\loddsidemargin=\dimen168
+\levensidemargin=\dimen169
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
+sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip48
+\multirow@cntb=\count175
+\multirow@dima=\skip49
+\bigstrutjot=\dimen170
+))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
+y"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count176
+\LTcapwidth=\dimen171
+\LT@head=\box34
+\LT@firsthead=\box35
+\LT@foot=\box36
+\LT@lastfoot=\box37
+\LT@cols=\count177
+\LT@rows=\count178
+\c@LT@tables=\count179
+\c@LT@chunks=\count180
+\LT@p@ftn=\toks37
+) (proposta_pdg.aux)
+\openout1 = `proposta_pdg.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count181
+\scratchdimen=\dimen172
+\scratchbox=\box38
+\nofMPsegments=\count182
+\nofMParguments=\count183
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count184
+\MPscratchDim=\dimen173
+\MPnumerator=\count185
+\makeMPintoPDFobject=\count186
+\everyMPtoPDFconversion=\toks39
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+("C:\Users\llago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+Non-PDF special ignored!
+<special> header=pst-node.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+{C:/Users/llago/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (1.88338pt too wide) in paragraph at lines 52--53
+\OT1/cmr/m/n/12 tersticas proprias, mas cer-tos as-pec-tos se man-ti-ve-ram 
+pre-sen-tes du-rante as transic~oes
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+<cronograma_pf.png, id=15, 491.33563pt x 160.09813pt>
+File: cronograma_pf.png Graphic file (type png)
+<use cronograma_pf.png>
+Package pdftex.def Info: cronograma_pf.png  used on input line 102.
+(pdftex.def)             Requested size: 491.33443pt x 160.09772pt.
+(proposta_pdg.bbl [4 <./cronograma_pf.png>]) [5
+
+] (proposta_pdg.aux) ) 
+Here is how much of TeX's memory you used:
+ 11199 strings out of 493305
+ 190071 string characters out of 3129802
+ 267994 words of memory out of 3000000
+ 14533 multiletter control sequences out of 15000+200000
+ 9904 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,8n,40p,1232b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/llago/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/llago/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/llago/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/llago/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on proposta_pdg.pdf (5 pages, 79775 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
